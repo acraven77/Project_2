@@ -216,3 +216,9 @@ var studentNameArr = [];
           message();
           }
   }
+
+function test() {
+    alert("yo bro");
+  }
+
+  test();
